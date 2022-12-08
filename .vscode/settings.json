@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "neopixelbus.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
